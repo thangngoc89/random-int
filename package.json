@@ -1,6 +1,6 @@
 {
   "name": "@thangngoc89/random-int",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Generate random integer",
   "main": "index.js",
   "scripts": {
