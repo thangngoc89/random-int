@@ -1,0 +1,11 @@
+{
+  "name": "@thangngoc89/random-int",
+  "version": "1.0.0",
+  "description": "Generate random integer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Khoa Nguyen (@thangngoc89)",
+  "license": "MIT"
+}
